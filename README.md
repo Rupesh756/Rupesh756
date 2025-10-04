@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently a CSE student, always eager to learn new technologies and frameworks.<br>- 💡 I love solving problems and bringing creative ideas to life through code.<br>- ⚡ My main stack: **React, Redux Toolkit, TanStack Query, Axios, JavaScript, HTML, CSS**.<br>- 🔍 I enjoy participating in coding challenges and building open-source projects.<br>- 📚 Forever curious and passionate about web development!
+- 🌱 I’m currently 3rd year CSE student at Madan Mohan Malviya University Of Technology-Gorakhpur , always eager to learn new technologies and frameworks.<br>- 💡 I love solving problems and bringing creative ideas to life through code.<br>- ⚡ My main stack: **React, Redux Toolkit, TanStack Query, Axios, JavaScript, HTML, CSS**.<br>- 🔍 I enjoy participating in coding challenges and building open-source projects.<br>- 📚 Forever curious and passionate about web development!
 
 
 ## 🌐 Socials:
